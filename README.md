@@ -1,1 +1,1 @@
-Challenge for the [Basics] XSS prevent quest !
+Challenge for the XSS prevention quest !
